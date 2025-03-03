@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Saivamsiaravala
 - 👀 I’m interested in Development
 - 🌱 I’m currently working in React.js
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me saivamsiaravala9333@gmail.com
+- 💞️ I’m looking to collaborate on Front End projects and projects based on Node.js
+- 📫 How to reach me - saivamsiaravala9333@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
